@@ -1,4 +1,11 @@
 .logo {
     height: 70px;
-    margin: 15px;
+    margin: 25px 15px 15px 15px;
+}
+h1 {
+    text-align: center;
+}
+
+.alert {
+    margin: 5px;
 }
