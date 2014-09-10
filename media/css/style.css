@@ -14,3 +14,8 @@ h1 {
 .alert {
     margin: 5px;
 }
+
+.github {
+    height: 30px;
+    float: right;
+}
