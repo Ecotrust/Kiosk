@@ -15,7 +15,26 @@ h1 {
     margin: 5px;
 }
 
+.alert-success:hover {
+  background-color: #63951b;
+}
+
 .github {
     height: 30px;
     float: right;
+}
+
+.github-block {
+  margin-top: 30px;
+  border: 1px solid black;
+  border-radius: 8px;
+}
+
+.github-block:hover {
+  background-color: #CCC;
+}
+
+.kiosk-content {
+  margin-top: 45px;
+  margin-bottom: 30px;
 }
