@@ -15,8 +15,11 @@ h1 {
     margin: 5px;
 }
 
-.alert-success:hover {
+.alert-success {
   background-color: #63951b;
+}
+.alert-success:hover {
+  background-color: #93c54b;
 }
 
 .github {
