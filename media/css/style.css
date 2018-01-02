@@ -17,9 +17,11 @@ h1 {
 
 .alert-success {
   background-color: #63951b;
+  height: 100px;
 }
 .alert-success:hover {
-  background-color: #93c54b;
+  background-color: #73a32b;
+  border: 2px solid #53850b;
 }
 
 .github {
@@ -40,4 +42,16 @@ h1 {
 .kiosk-content {
   margin-top: 45px;
   margin-bottom: 30px;
+}
+
+.alert-success.alert {
+  color: white;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.bs-component {
+  min-height: 100px;
 }
