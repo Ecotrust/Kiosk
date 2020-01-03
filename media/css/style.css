@@ -16,12 +16,15 @@ h1 {
 }
 
 .alert-success {
-  background-color: #63951b;
+  /* background-color: #63951b; */
+  background-color: #0092c1;
   height: 100px;
 }
 .alert-success:hover {
-  background-color: #73a32b;
-  border: 2px solid #53850b;
+  /* background-color: #73a32b; */
+  background-color: #00BFFF;
+  /* border: 2px solid #53850b; */
+  border: 2px solid #0099CC;
 }
 
 .github {
